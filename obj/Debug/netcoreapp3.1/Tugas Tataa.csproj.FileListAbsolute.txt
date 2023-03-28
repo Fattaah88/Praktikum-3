@@ -1,0 +1,14 @@
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\bin\Debug\netcoreapp3.1\Tugas Tataa.exe
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\bin\Debug\netcoreapp3.1\Tugas Tataa.deps.json
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\bin\Debug\netcoreapp3.1\Tugas Tataa.runtimeconfig.json
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\bin\Debug\netcoreapp3.1\Tugas Tataa.runtimeconfig.dev.json
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\bin\Debug\netcoreapp3.1\Tugas Tataa.dll
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\bin\Debug\netcoreapp3.1\Tugas Tataa.pdb
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\obj\Debug\netcoreapp3.1\Tugas Tataa.csproj.AssemblyReference.cache
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\obj\Debug\netcoreapp3.1\Tugas Tataa.GeneratedMSBuildEditorConfig.editorconfig
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\obj\Debug\netcoreapp3.1\Tugas Tataa.AssemblyInfoInputs.cache
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\obj\Debug\netcoreapp3.1\Tugas Tataa.AssemblyInfo.cs
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\obj\Debug\netcoreapp3.1\Tugas Tataa.csproj.CoreCompileInputs.cache
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\obj\Debug\netcoreapp3.1\Tugas Tataa.dll
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\obj\Debug\netcoreapp3.1\Tugas Tataa.pdb
+E:\tata\Pemrog\Praktikum2_4814\Tugas Tataa\obj\Debug\netcoreapp3.1\Tugas Tataa.genruntimeconfig.cache
